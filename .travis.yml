@@ -90,4 +90,4 @@ after_success:
   - git push --force origin ${BRANCH}:builds
 
 notifications:
-  email: false
+  email: 0
